@@ -7,4 +7,7 @@ target 'FlixApp' do
 
   # Pods for FlixApp
     pod 'AFNetworking'
+    pod 'MBProgressHUD'
+
+
 end

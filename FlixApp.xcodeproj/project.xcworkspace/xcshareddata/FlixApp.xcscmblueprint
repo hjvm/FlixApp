@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6A22175ABBFB75DB85F740CC0F84EBE11BD0B87C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C35B1DF129A5B1454F40F1C3DB63E1FD52D08F7C" : 0,
+    "6A22175ABBFB75DB85F740CC0F84EBE11BD0B87C" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "72631FE2-136E-4C73-A59C-139EF4E6F234",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C35B1DF129A5B1454F40F1C3DB63E1FD52D08F7C" : "",
+    "6A22175ABBFB75DB85F740CC0F84EBE11BD0B87C" : "FlixApp\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "FlixApp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "FlixApp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/hjvm\/FlixApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6A22175ABBFB75DB85F740CC0F84EBE11BD0B87C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/hjvm\/FlixApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C35B1DF129A5B1454F40F1C3DB63E1FD52D08F7C"
+    }
+  ]
+}
